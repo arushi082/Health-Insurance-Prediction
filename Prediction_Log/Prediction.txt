@@ -1,0 +1,84 @@
+2022-06-24/09:26:36		Start of Prediction
+2022-06-24/09:29:02		Start of Prediction
+2022-06-24/09:29:02		Error occured while prediction[Errno 2] No such file or directory: 'Prediction_FilesPrediction.csv'
+2022-06-24/09:29:28		Start of Prediction
+2022-06-24/09:29:28		Error occured while prediction'PreProcessing' object has no attribute 'logger'
+2022-06-24/09:31:15		Start of Prediction
+2022-06-24/09:31:15		Error occured while prediction'PreProcessing' object has no attribute 'logger'
+2022-06-24/09:32:55		Start of Prediction
+2022-06-24/09:32:55		Error occured while prediction__init__() missing 1 required positional argument: 'logger_object'
+2022-06-24/09:33:21		Start of Prediction
+2022-06-24/09:33:21		Error occured while prediction'Prediciton' object has no attribute 'logger_object'
+2022-06-24/09:33:41		Start of Prediction
+2022-06-24/09:33:41		Error occured while predictionlist index out of range
+2022-06-24/09:50:30		Start of Prediction
+2022-06-24/09:50:30		Error occured while predictionlist index out of range
+2022-06-24/10:48:39		Start of Prediction
+2022-06-24/10:48:39		Error occured while prediction'PreProcessing' object has no attribute 'logger'
+2022-06-24/11:01:41		Start of Prediction
+2022-06-24/11:01:41		Entered the encode_data method of preprocessing class
+2022-06-24/11:01:41		An error occured during encoding
+2022-06-24/11:01:41		Error occured while predictionlog() takes 3 positional arguments but 4 were given
+2022-06-24/11:14:34		Start of Prediction
+2022-06-24/11:14:34		Entered the encode_data method of preprocessing class
+2022-06-24/11:14:34		An error occured during encoding
+2022-06-24/11:14:34		Error occured while predictionlog() takes 3 positional arguments but 4 were given
+2022-06-24/11:14:47		Start of Prediction
+2022-06-24/11:14:47		Entered the encode_data method of preprocessing class
+2022-06-24/11:14:47		An error occured during encoding
+2022-06-24/11:14:47		Error occured while predictionlog() takes 3 positional arguments but 4 were given
+2022-06-24/11:23:53		Start of Prediction
+2022-06-24/11:23:53		Entered the encode_data method of preprocessing class
+2022-06-24/11:23:53		An error occured during encoding
+2022-06-24/11:23:53		Error occured while prediction
+2022-06-24/11:23:56		Start of Prediction
+2022-06-24/11:23:56		Entered the encode_data method of preprocessing class
+2022-06-24/11:23:56		An error occured during encoding
+2022-06-24/11:23:56		Error occured while prediction
+2022-06-24/11:24:10		Start of Prediction
+2022-06-24/11:24:10		Entered the encode_data method of preprocessing class
+2022-06-24/11:24:10		An error occured during encoding
+2022-06-24/11:24:10		Error occured while prediction
+2022-06-24/11:31:45		Start of Prediction
+2022-06-24/11:31:45		Entered the encode_data method of preprocessing class
+2022-06-24/11:31:45		An error occured during encoding
+2022-06-24/11:31:45		Error occured while predictionlog() takes 3 positional arguments but 4 were given
+2022-06-24/11:36:07		Start of Prediction
+2022-06-24/11:36:07		Entered the encode_data method of preprocessing class
+2022-06-24/11:36:07		An error occured during encoding
+2022-06-24/11:36:07		Error occured while predictionlog() takes 3 positional arguments but 4 were given
+2022-06-24/11:36:27		Start of Prediction
+2022-06-24/11:36:27		Entered the encode_data method of preprocessing class
+2022-06-24/11:36:27		An error occured during encoding
+2022-06-24/11:36:27		Error occured while predictionlog() takes 3 positional arguments but 4 were given
+2022-06-24/11:45:05		Start of Prediction
+2022-06-24/11:45:05		Entered the encode_data method of preprocessing class
+2022-06-24/11:45:05		An error occured during encoding
+2022-06-24/11:45:05		Error occured while predictionlog() takes 3 positional arguments but 4 were given
+2022-06-24/11:58:49		Start of Prediction
+2022-06-24/11:58:49		Entered the encode_data method of preprocessing class
+2022-06-24/11:58:49		An error occured during encoding
+2022-06-24/11:58:49		Error occured while predictionlog() takes 3 positional arguments but 4 were given
+2022-06-24/11:59:34		Start of Prediction
+2022-06-24/11:59:34		Entered the encode_data method of preprocessing class
+2022-06-24/11:59:34		Entered the loadModel method of FileHandler class
+2022-06-24/11:59:34		Uploaded. Exiting loadModel method of FileHandler class
+2022-06-24/11:59:34		Error occured in loadModel method of FileHandler class MessageNo module named 'sklearn'
+2022-06-24/11:59:34		An error occured during encoding
+2022-06-24/11:59:34		Error occured while predictionNo module named 'sklearn'
+2022-06-24/11:59:59		Start of Prediction
+2022-06-24/11:59:59		Entered the encode_data method of preprocessing class
+2022-06-24/11:59:59		Entered the loadModel method of FileHandler class
+2022-06-24/11:59:59		Uploaded. Exiting loadModel method of FileHandler class
+2022-06-24/12:00:15		Encoding Completed
+2022-06-24/12:00:15		Entered the loadModel method of FileHandler class
+2022-06-24/12:00:15		Uploaded. Exiting loadModel method of FileHandler class
+2022-06-24/12:00:19		Prediction complete
+2022-06-24/12:05:30		Start of Prediction
+2022-06-24/12:05:30		Entered the encode_data method of preprocessing class
+2022-06-24/12:05:30		Entered the loadModel method of FileHandler class
+2022-06-24/12:05:30		Uploaded. Exiting loadModel method of FileHandler class
+2022-06-24/12:05:30		Encoding Completed
+2022-06-24/12:05:30		Entered the loadModel method of FileHandler class
+2022-06-24/12:05:30		Uploaded. Exiting loadModel method of FileHandler class
+2022-06-24/12:05:30		Prediction complete

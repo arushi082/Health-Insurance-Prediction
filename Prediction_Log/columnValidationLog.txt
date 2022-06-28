@@ -1,0 +1,42 @@
+2022-06-24/09:26:36		Validate Column Data Type
+2022-06-24/09:26:36		Data Validation Complete
+2022-06-24/09:29:02		Validate Column Data Type
+2022-06-24/09:29:02		Data Validation Complete
+2022-06-24/09:29:28		Validate Column Data Type
+2022-06-24/09:29:28		Data Validation Complete
+2022-06-24/09:31:15		Validate Column Data Type
+2022-06-24/09:31:15		Data Validation Complete
+2022-06-24/09:32:55		Validate Column Data Type
+2022-06-24/09:33:21		Validate Column Data Type
+2022-06-24/09:33:41		Validate Column Data Type
+2022-06-24/09:50:30		Validate Column Data Type
+2022-06-24/10:48:39		Validate Column Data Type
+2022-06-24/10:48:39		Data Validation Complete
+2022-06-24/11:01:41		Validate Column Data Type
+2022-06-24/11:01:41		Data Validation Complete
+2022-06-24/11:14:34		Validate Column Data Type
+2022-06-24/11:14:34		Data Validation Complete
+2022-06-24/11:14:47		Validate Column Data Type
+2022-06-24/11:14:47		Data Validation Complete
+2022-06-24/11:23:53		Validate Column Data Type
+2022-06-24/11:23:53		Data Validation Complete
+2022-06-24/11:23:56		Validate Column Data Type
+2022-06-24/11:23:56		Data Validation Complete
+2022-06-24/11:24:10		Validate Column Data Type
+2022-06-24/11:24:10		Data Validation Complete
+2022-06-24/11:31:45		Validate Column Data Type
+2022-06-24/11:31:45		Data Validation Complete
+2022-06-24/11:36:07		Validate Column Data Type
+2022-06-24/11:36:07		Data Validation Complete
+2022-06-24/11:36:27		Validate Column Data Type
+2022-06-24/11:36:27		Data Validation Complete
+2022-06-24/11:45:05		Validate Column Data Type
+2022-06-24/11:45:05		Data Validation Complete
+2022-06-24/11:58:49		Validate Column Data Type
+2022-06-24/11:58:49		Data Validation Complete
+2022-06-24/11:59:34		Validate Column Data Type
+2022-06-24/11:59:34		Data Validation Complete
+2022-06-24/11:59:59		Validate Column Data Type
+2022-06-24/11:59:59		Data Validation Complete
+2022-06-24/12:05:30		Validate Column Data Type
+2022-06-24/12:05:30		Data Validation Complete

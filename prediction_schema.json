@@ -1,0 +1,21 @@
+{
+  "columnNames": {
+    "Smoker": {
+      "Yes" : 1,
+      "No"  : 0
+    }
+  },
+  "RequiredColumns": [
+    "Age",
+    "Bmi",
+    "Children",
+    "Smoker",
+    "Region"
+  ],
+  "region":[
+    "southwest",
+    "southeast",
+    "northwest",
+    "northeast"
+  ]
+}

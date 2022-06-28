@@ -1,0 +1,55 @@
+{% extends "base.html" %}
+
+{% block content %}
+<div class="container">
+    <div class="form-block mt-5">
+        <form class="row" action="/input" method="POST">
+            <div class="col-4">
+                <div class="form-group">
+                   <label>Age</label>
+                    <input name="Age" type="tel" class="form-control" placeholder="ex: 30" required>
+                </div>
+              </div>
+
+            <div class="col-4">
+                <div class="form-group">
+                   <label>Bmi</label>
+                    <input name="Bmi" type="tel" class="form-control" placeholder="ex: 20" required>
+                </div>
+              </div>
+
+            <div class="col-4">
+                <div class="form-group">
+                   <label>Children</label>
+                    <input name="Children" type="tel" class="form-control" placeholder="ex: 2" required>
+                </div>
+              </div>
+
+            <div class="col-4">
+                <div class="form-group">
+                   <label>Smoker</label>
+                     <select name="Smoker" class="form-control">
+                        <option selected>Yes</option>
+                         <option selected>No</option>
+                  </select>
+                </div>
+            </div>
+
+            <div class="col-4">
+                <div class="form-group">
+                  <label>Region</label>
+                  <select name="Region" class="form-control">
+                      {%for option in csv['region'] %}
+                        <option selected>{{option}}</option>
+                      {% endfor %}
+                  </select>
+                </div>
+            </div>
+
+
+            <input class="btn btn-primary" type="submit" value="Submit" style="height: 50px;margin-top: 22px;">
+        </form>
+    </div>
+
+</div>
+{% endblock content %}

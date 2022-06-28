@@ -1,0 +1,186 @@
+2022-06-23/20:34:21		Entered the delete prediciton file method of the prediction data validation class
+2022-06-23/20:34:21		Error occured in deleting the prediction file[Errno 2] No such file or directory: 'Prediction_Files/'
+2022-06-23/20:34:21		Failed to delete folder
+2022-06-23/20:35:38		Entered the delete prediciton file method of the prediction data validation class
+2022-06-23/20:35:38		Error occured in deleting the prediction file[Errno 2] No such file or directory: 'Prediction_Files/'
+2022-06-23/20:35:38		Failed to delete folder
+2022-06-23/20:35:38		Enter the create Prediction File method of Predcititon Data Validation
+2022-06-23/20:35:38		Prediciton_Files created
+2022-06-23/20:50:29		Entered the delete prediciton file method of the prediction data validation class
+2022-06-23/20:50:29		Predciton_files deleted
+2022-06-23/20:50:29		Enter the create Prediction File method of Predcititon Data Validation
+2022-06-23/20:50:29		Prediciton_Files created
+2022-06-23/21:17:45		Entered the delete prediciton file method of the prediction data validation class
+2022-06-23/21:17:45		Predciton_files deleted
+2022-06-23/21:17:45		Enter the create Prediction File method of Predcititon Data Validation
+2022-06-23/21:17:45		Prediciton_Files created
+2022-06-23/21:28:03		Entered the delete prediciton file method of the prediction data validation class
+2022-06-23/21:28:03		Predciton_files deleted
+2022-06-23/21:28:03		Enter the create Prediction File method of Predcititon Data Validation
+2022-06-23/21:28:03		Prediciton_Files created
+2022-06-23/21:30:29		Entered the delete prediciton file method of the prediction data validation class
+2022-06-23/21:30:29		Predciton_files deleted
+2022-06-23/21:30:29		Enter the create Prediction File method of Predcititon Data Validation
+2022-06-23/21:30:29		Prediciton_Files created
+2022-06-24/08:58:44		Entered the delete prediciton file method of the prediction data validation class
+2022-06-24/08:58:44		Predciton_files deleted
+2022-06-24/08:58:44		Enter the create Prediction File method of Predcititon Data Validation
+2022-06-24/08:58:44		Prediciton_Files created
+2022-06-24/09:05:30		Entered the delete prediciton file method of the prediction data validation class
+2022-06-24/09:05:30		Predciton_files deleted
+2022-06-24/09:05:30		Enter the create Prediction File method of Predcititon Data Validation
+2022-06-24/09:05:30		Prediciton_Files created
+2022-06-24/09:10:12		Entered the delete prediciton file method of the prediction data validation class
+2022-06-24/09:10:12		Predciton_files deleted
+2022-06-24/09:10:12		Enter the create Prediction File method of Predcititon Data Validation
+2022-06-24/09:10:12		Prediciton_Files created
+2022-06-24/09:14:23		Entered the delete prediciton file method of the prediction data validation class
+2022-06-24/09:14:23		Predciton_files deleted
+2022-06-24/09:14:23		Enter the create Prediction File method of Predcititon Data Validation
+2022-06-24/09:14:23		Prediciton_Files created
+2022-06-24/09:14:43		Entered the delete prediciton file method of the prediction data validation class
+2022-06-24/09:14:43		Predciton_files deleted
+2022-06-24/09:14:43		Enter the create Prediction File method of Predcititon Data Validation
+2022-06-24/09:14:43		Prediciton_Files created
+2022-06-24/09:14:47		Entered the delete prediciton file method of the prediction data validation class
+2022-06-24/09:14:47		Predciton_files deleted
+2022-06-24/09:14:47		Enter the create Prediction File method of Predcititon Data Validation
+2022-06-24/09:14:47		Prediciton_Files created
+2022-06-24/09:15:20		Entered the delete prediciton file method of the prediction data validation class
+2022-06-24/09:15:20		Predciton_files deleted
+2022-06-24/09:15:20		Enter the create Prediction File method of Predcititon Data Validation
+2022-06-24/09:15:20		Prediciton_Files created
+2022-06-24/09:16:08		Entered the delete prediciton file method of the prediction data validation class
+2022-06-24/09:16:08		Predciton_files deleted
+2022-06-24/09:16:08		Enter the create Prediction File method of Predcititon Data Validation
+2022-06-24/09:16:08		Prediciton_Files created
+2022-06-24/09:18:09		Entered the delete prediciton file method of the prediction data validation class
+2022-06-24/09:18:09		Predciton_files deleted
+2022-06-24/09:18:09		Enter the create Prediction File method of Predcititon Data Validation
+2022-06-24/09:18:09		Prediciton_Files created
+2022-06-24/09:24:01		Entered the delete prediciton file method of the prediction data validation class
+2022-06-24/09:24:01		Predciton_files deleted
+2022-06-24/09:24:01		Enter the create Prediction File method of Predcititon Data Validation
+2022-06-24/09:24:01		Prediciton_Files created
+2022-06-24/09:26:24		Entered the delete prediciton file method of the prediction data validation class
+2022-06-24/09:26:24		Predciton_files deleted
+2022-06-24/09:26:24		Enter the create Prediction File method of Predcititon Data Validation
+2022-06-24/09:26:24		Prediciton_Files created
+2022-06-24/09:26:36		Entered the setSchema Method of the predciton Data Validation class
+2022-06-24/09:26:36		region:['southwest', 'southeast', 'northwest', 'northeast']	REquired Columns:['Age', 'Bmi', 'Children', 'Smoker', 'Region']
+
+2022-06-24/09:26:36		Entered the setSchema Method of the predciton Data Validation class
+2022-06-24/09:26:36		region:['southwest', 'southeast', 'northwest', 'northeast']	REquired Columns:['Age', 'Bmi', 'Children', 'Smoker', 'Region']
+
+2022-06-24/09:32:52		Entered the delete prediciton file method of the prediction data validation class
+2022-06-24/09:32:52		Predciton_files deleted
+2022-06-24/09:32:52		Enter the create Prediction File method of Predcititon Data Validation
+2022-06-24/09:32:52		Prediciton_Files created
+2022-06-24/09:50:35		Entered the delete prediciton file method of the prediction data validation class
+2022-06-24/09:50:35		Predciton_files deleted
+2022-06-24/09:50:35		Enter the create Prediction File method of Predcititon Data Validation
+2022-06-24/09:50:35		Prediciton_Files created
+2022-06-24/10:47:40		Entered the delete prediciton file method of the prediction data validation class
+2022-06-24/10:47:40		Predciton_files deleted
+2022-06-24/10:47:40		Enter the create Prediction File method of Predcititon Data Validation
+2022-06-24/10:47:40		Prediciton_Files created
+2022-06-24/10:47:40		Entered the setSchema Method of the predciton Data Validation class
+2022-06-24/10:47:40		region:['southwest', 'southeast', 'northwest', 'northeast']	REquired Columns:['Age', 'Bmi', 'Children', 'Smoker', 'Region']
+
+2022-06-24/10:47:53		Entered the setSchema Method of the predciton Data Validation class
+2022-06-24/10:47:53		region:['southwest', 'southeast', 'northwest', 'northeast']	REquired Columns:['Age', 'Bmi', 'Children', 'Smoker', 'Region']
+
+2022-06-24/10:47:53		Entered the setSchema Method of the predciton Data Validation class
+2022-06-24/10:47:53		region:['southwest', 'southeast', 'northwest', 'northeast']	REquired Columns:['Age', 'Bmi', 'Children', 'Smoker', 'Region']
+
+2022-06-24/10:47:53		Entered the delete prediciton file method of the prediction data validation class
+2022-06-24/10:47:53		Predciton_files deleted
+2022-06-24/10:47:53		Enter the create Prediction File method of Predcititon Data Validation
+2022-06-24/10:47:53		Prediciton_Files created
+2022-06-24/10:47:53		Entered the setSchema Method of the predciton Data Validation class
+2022-06-24/10:47:53		region:['southwest', 'southeast', 'northwest', 'northeast']	REquired Columns:['Age', 'Bmi', 'Children', 'Smoker', 'Region']
+
+2022-06-24/10:48:04		Entered the setSchema Method of the predciton Data Validation class
+2022-06-24/10:48:04		region:['southwest', 'southeast', 'northwest', 'northeast']	REquired Columns:['Age', 'Bmi', 'Children', 'Smoker', 'Region']
+
+2022-06-24/10:48:04		Entered the setSchema Method of the predciton Data Validation class
+2022-06-24/10:48:04		region:['southwest', 'southeast', 'northwest', 'northeast']	REquired Columns:['Age', 'Bmi', 'Children', 'Smoker', 'Region']
+
+2022-06-24/10:48:05		Entered the delete prediciton file method of the prediction data validation class
+2022-06-24/10:48:05		Predciton_files deleted
+2022-06-24/10:48:05		Enter the create Prediction File method of Predcititon Data Validation
+2022-06-24/10:48:05		Prediciton_Files created
+2022-06-24/10:48:05		Entered the setSchema Method of the predciton Data Validation class
+2022-06-24/10:48:05		region:['southwest', 'southeast', 'northwest', 'northeast']	REquired Columns:['Age', 'Bmi', 'Children', 'Smoker', 'Region']
+
+2022-06-24/10:48:31		Entered the delete prediciton file method of the prediction data validation class
+2022-06-24/10:48:31		Predciton_files deleted
+2022-06-24/10:48:31		Enter the create Prediction File method of Predcititon Data Validation
+2022-06-24/10:48:31		Prediciton_Files created
+2022-06-24/10:48:31		Entered the setSchema Method of the predciton Data Validation class
+2022-06-24/10:48:31		region:['southwest', 'southeast', 'northwest', 'northeast']	REquired Columns:['Age', 'Bmi', 'Children', 'Smoker', 'Region']
+
+2022-06-24/10:48:39		Entered the setSchema Method of the predciton Data Validation class
+2022-06-24/10:48:39		region:['southwest', 'southeast', 'northwest', 'northeast']	REquired Columns:['Age', 'Bmi', 'Children', 'Smoker', 'Region']
+
+2022-06-24/10:48:39		Entered the setSchema Method of the predciton Data Validation class
+2022-06-24/10:48:39		region:['southwest', 'southeast', 'northwest', 'northeast']	REquired Columns:['Age', 'Bmi', 'Children', 'Smoker', 'Region']
+
+2022-06-24/11:01:31		Entered the delete prediciton file method of the prediction data validation class
+2022-06-24/11:01:31		Predciton_files deleted
+2022-06-24/11:01:31		Enter the create Prediction File method of Predcititon Data Validation
+2022-06-24/11:01:31		Prediciton_Files created
+2022-06-24/11:01:31		Entered the setSchema Method of the predciton Data Validation class
+2022-06-24/11:01:31		region:['southwest', 'southeast', 'northwest', 'northeast']	REquired Columns:['Age', 'Bmi', 'Children', 'Smoker', 'Region']
+
+2022-06-24/11:01:41		Entered the setSchema Method of the predciton Data Validation class
+2022-06-24/11:01:41		region:['southwest', 'southeast', 'northwest', 'northeast']	REquired Columns:['Age', 'Bmi', 'Children', 'Smoker', 'Region']
+
+2022-06-24/11:01:41		Entered the setSchema Method of the predciton Data Validation class
+2022-06-24/11:01:41		region:['southwest', 'southeast', 'northwest', 'northeast']	REquired Columns:['Age', 'Bmi', 'Children', 'Smoker', 'Region']
+
+2022-06-24/11:31:28		Entered the delete prediciton file method of the prediction data validation class
+2022-06-24/11:31:28		Predciton_files deleted
+2022-06-24/11:31:28		Enter the create Prediction File method of Predcititon Data Validation
+2022-06-24/11:31:28		Prediciton_Files created
+2022-06-24/11:31:28		Entered the setSchema Method of the predciton Data Validation class
+2022-06-24/11:31:28		region:['southwest', 'southeast', 'northwest', 'northeast']	REquired Columns:['Age', 'Bmi', 'Children', 'Smoker', 'Region']
+
+2022-06-24/11:31:45		Entered the setSchema Method of the predciton Data Validation class
+2022-06-24/11:31:45		region:['southwest', 'southeast', 'northwest', 'northeast']	REquired Columns:['Age', 'Bmi', 'Children', 'Smoker', 'Region']
+
+2022-06-24/11:31:45		Entered the setSchema Method of the predciton Data Validation class
+2022-06-24/11:31:45		region:['southwest', 'southeast', 'northwest', 'northeast']	REquired Columns:['Age', 'Bmi', 'Children', 'Smoker', 'Region']
+
+2022-06-24/11:36:07		Entered the setSchema Method of the predciton Data Validation class
+2022-06-24/11:36:07		region:['southwest', 'southeast', 'northwest', 'northeast']	REquired Columns:['Age', 'Bmi', 'Children', 'Smoker', 'Region']
+
+2022-06-24/11:36:07		Entered the setSchema Method of the predciton Data Validation class
+2022-06-24/11:36:07		region:['southwest', 'southeast', 'northwest', 'northeast']	REquired Columns:['Age', 'Bmi', 'Children', 'Smoker', 'Region']
+
+2022-06-24/11:36:17		Entered the delete prediciton file method of the prediction data validation class
+2022-06-24/11:36:17		Predciton_files deleted
+2022-06-24/11:36:17		Enter the create Prediction File method of Predcititon Data Validation
+2022-06-24/11:36:17		Prediciton_Files created
+2022-06-24/11:36:17		Entered the setSchema Method of the predciton Data Validation class
+2022-06-24/11:36:17		region:['southwest', 'southeast', 'northwest', 'northeast']	REquired Columns:['Age', 'Bmi', 'Children', 'Smoker', 'Region']
+
+2022-06-24/11:36:27		Entered the setSchema Method of the predciton Data Validation class
+2022-06-24/11:36:27		region:['southwest', 'southeast', 'northwest', 'northeast']	REquired Columns:['Age', 'Bmi', 'Children', 'Smoker', 'Region']
+
+2022-06-24/11:36:27		Entered the setSchema Method of the predciton Data Validation class
+2022-06-24/11:36:27		region:['southwest', 'southeast', 'northwest', 'northeast']	REquired Columns:['Age', 'Bmi', 'Children', 'Smoker', 'Region']
+
+2022-06-24/12:05:19		Entered the delete prediciton file method of the prediction data validation class
+2022-06-24/12:05:19		Predciton_files deleted
+2022-06-24/12:05:19		Enter the create Prediction File method of Predcititon Data Validation
+2022-06-24/12:05:19		Prediciton_Files created
+2022-06-24/12:05:19		Entered the setSchema Method of the predciton Data Validation class
+2022-06-24/12:05:19		region:['southwest', 'southeast', 'northwest', 'northeast']	REquired Columns:['Age', 'Bmi', 'Children', 'Smoker', 'Region']
+
+2022-06-24/12:05:30		Entered the setSchema Method of the predciton Data Validation class
+2022-06-24/12:05:30		region:['southwest', 'southeast', 'northwest', 'northeast']	REquired Columns:['Age', 'Bmi', 'Children', 'Smoker', 'Region']
+
+2022-06-24/12:05:30		Entered the setSchema Method of the predciton Data Validation class
+2022-06-24/12:05:30		region:['southwest', 'southeast', 'northwest', 'northeast']	REquired Columns:['Age', 'Bmi', 'Children', 'Smoker', 'Region']
+
